@@ -1,4 +1,4 @@
-baseURL = 'http://www.caencamp.fr/nuit-imagination/'
+baseURL = 'https://caencamp.github.io/nuit-imagination/'
 languageCode = 'fr-fr'
 theme = 'soho'
 title = "Nuit de l'imaginaire"
