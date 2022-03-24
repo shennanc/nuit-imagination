@@ -1,7 +1,7 @@
 baseURL = 'https://shennanc.github.io/nuit-imagination/'
 languageCode = 'fr-fr'
 theme = 'soho'
-title = "Nuit de l'imaginaire"
+title = "ShenNan BLog"
 
 enableEmoji = true
 summarylength = 10
