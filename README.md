@@ -72,4 +72,4 @@ Du texte en *italique* ou **en gras**.
 | etc.        | etc.  | vous connaissez la chanson |
 
 
-Allez trouvez [plus d'instructions ici](https://www.ionos.fr/digitalguide/sites-internet/developpement-web/markdown/)
+Allez trouvez [plus de conseils en markdown ici](https://www.ionos.fr/digitalguide/sites-internet/developpement-web/markdown/)
